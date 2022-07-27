@@ -7,6 +7,5 @@
 	</classpathentry>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="src" path="music"/>
-	<classpathentry kind="src" path="resource"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
